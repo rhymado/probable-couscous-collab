@@ -1,0 +1,8 @@
+{
+  "msg": "OK",
+  "status": 200,
+  "data": [
+    { "id": 1, "name": "Fakhri" },
+    { "id": 2, "name": "Fazztrack" }
+  ]
+}
